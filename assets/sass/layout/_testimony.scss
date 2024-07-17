@@ -1,0 +1,17 @@
+.text {
+  color: #DFC9A7;
+  padding-bottom: 1rem;
+
+  &__align {
+  text-align: center;
+  padding-top: 2rem;
+  padding-right: 4.5rem;
+  padding-left: 4.5rem;
+  }
+
+  &--name {
+    font-size: 1rem;
+    padding-top: 0.8rem;
+  }
+
+}

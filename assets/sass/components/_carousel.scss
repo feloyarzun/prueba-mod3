@@ -1,0 +1,10 @@
+.imgcar {
+  border-radius: 8px;
+  height: 300px;
+}
+
+@media (width > 768px) {
+  .imgcar {
+    height: 500px
+  }
+}
